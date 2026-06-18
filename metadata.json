@@ -1,0 +1,6 @@
+{
+  "name": "Athlete Performance Tracker",
+  "description": "Centralized athlete details database with relational SQLite3 architecture, event logs, ASA National Standards tracking, and automated sports science diagnostics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
