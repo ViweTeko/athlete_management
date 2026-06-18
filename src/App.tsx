@@ -303,7 +303,7 @@ export default function App() {
             ASA
           </div>
           <div>
-            <h1 className="font-display font-black text-slate-900 tracking-tight text-base uppercase">South African Athletics</h1>
+            <h1 className="font-display font-black text-slate-900 tracking-tight text-base uppercase">Thobela Thoba Athletics Academy</h1>
             <p className="text-[10px] text-emerald-600 font-bold tracking-wider uppercase font-mono mt-0.5">Elite Sports Science & Performance Registry</p>
           </div>
         </div>
@@ -318,8 +318,8 @@ export default function App() {
             Reload DB
           </button>
           <div className="text-right hidden sm:block">
-            <div className="text-xs font-bold text-slate-900">Dr. Viwe Teko, PhD</div>
-            <div className="text-[10px] text-slate-400 font-medium">Head Performance Analyst • AGN</div>
+            <div className="text-xs font-bold text-slate-900"> Viwe Teko, Coach V</div>
+            <div className="text-[10px] text-slate-400 font-medium">Middle Distance Coach • TTAA</div>
           </div>
         </div>
       </header>
@@ -659,9 +659,9 @@ export default function App() {
       <footer className="bg-slate-900 border-t border-slate-800 py-6 mt-12 text-center text-xs text-slate-500">
         <div className="max-w-7xl mx-auto px-6 space-y-2">
           <p className="font-mono">SQLite3 DB ENGINE V2.4 • DJANGO MODELSERIALIZERS ROUTING</p>
-          <p className="font-sans">© {new Date().getFullYear()} Sports Sciences Department, South African Athletics (ASA)</p>
+          <p className="font-sans">© {new Date().getFullYear()} Viwe Teko (Pty) Ltd, Athletics South Africa (ASA) Level One Coach</p>
           <div className="text-[10px] text-slate-650 italic">
-            * Standardized to international WA criteria and Pretoria Regional hypoxic adjustment values
+            * Standardized to international WA criteria and ASA
           </div>
         </div>
       </footer>
